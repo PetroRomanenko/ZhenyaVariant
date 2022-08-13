@@ -12,6 +12,6 @@ public class Field {
     }
 
     public void showField() {
-        System.out.println("TEST");
+        System.out.println(Arrays.toString(VALUES);
     }
 }
